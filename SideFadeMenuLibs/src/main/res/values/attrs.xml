@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SideFadeLayout">
+        <attr name="catt_MenuLayout" format="reference" />
+        <attr name="catt_MenuContraction_AlphaPercentage" format="float" />
+        <attr name="catt_ContentLayout" format="reference" />
+        <attr name="catt_ContentContraction_MarginEndPercentage" format="float" />
+    </declare-styleable>
+</resources>
