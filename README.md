@@ -1,3 +1,3 @@
 # SideFadeMenu
 
-<img width="320" height="480" src="https://raw.githubusercontent.com/LuckWei/SideFadeMenu/master/gif/demo.gif" />
+<img width="320" height="480" src="https://raw.githubusercontent.com/LuckyCattZW/SideFadeMenu/master/gif/demo.gif" />
